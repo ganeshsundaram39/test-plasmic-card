@@ -1,0 +1,18 @@
+.root {
+  display: inline-flex;
+  flex-direction: column;
+  position: relative;
+  width: auto;
+  height: auto;
+}
+.h1 {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 800px;
+  font-size: 59px;
+  min-width: 0;
+}
+.h2 {
+  width: 231px;
+}

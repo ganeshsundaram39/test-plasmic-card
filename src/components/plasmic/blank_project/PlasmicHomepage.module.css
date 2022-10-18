@@ -1,0 +1,100 @@
+.root {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  justify-content: flex-start;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  padding: 0px;
+}
+.iPhone1313Pro1 {
+  background: rgba(255, 255, 255, 1);
+  width: 390px;
+  height: 844px;
+  display: block;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.rectangle1 {
+  background: rgba(216, 216, 216, 1);
+  width: 390px;
+  height: 54px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.text___24Ciw {
+  display: block;
+  font-size: 20px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 18px;
+  left: 10px;
+  width: 229px;
+  height: 28px;
+}
+.rectangle2 {
+  background: rgba(216, 216, 216, 1);
+  width: 148px;
+  height: 209px;
+  display: block;
+  position: absolute;
+  top: 103px;
+  left: 22px;
+  margin-top: 0px;
+  border-radius: 10px;
+}
+.link__maXfx {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  padding-left: 0px;
+}
+.link__rSwmA {
+  height: auto;
+}
+.rectangle3 {
+  background: rgba(216, 216, 216, 1);
+  width: 148px;
+  height: 209px;
+  display: block;
+  position: absolute;
+  top: 103px;
+  left: 207px;
+  border-radius: 10px;
+}
+.image1 {
+  background: url("./images/image1.png") center center / cover no-repeat;
+  width: 323px;
+  height: 215px;
+  display: block;
+  position: absolute;
+  top: 348px;
+  left: 33px;
+  border-radius: 20px;
+}
+.card2:global(.__wab_instance) {
+  max-width: 100%;
+  position: absolute;
+  left: 34px;
+  top: 621px;
+  height: 162px;
+  width: 284px;
+}
+.text__nttvd {
+  position: absolute;
+  width: 100%;
+  height: auto;
+  max-width: 800px;
+  left: 0px;
+  top: 0px;
+  min-width: 0;
+}
